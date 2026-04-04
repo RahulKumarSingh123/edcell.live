@@ -18,7 +18,7 @@ function Cards() {
     },
     {
       id: "comingsoon",
-      image: "/assets/images/events/image.png",
+      image: "/assets/images/events/spark.png",
     },
   ];
 
@@ -46,7 +46,7 @@ function Cards() {
                     <button className="relative hover:scale-105 inline-flex md:h-12 md:w-42 sm:h-10 sm:wd-40 h-10 w-40  lg:h-16 lg:w-48 overflow-hidden rounded-full p-[2px] focus:outline-none focus:ring-2 focus:ring-purple-400 focus:ring-offset-2">
                       <span className="absolute inset-0 bg-gradient-to-r from-purple-500 to-indigo-500 rounded-full animate-pulse" />
                       <span className="relative inline-flex h-full w-full items-center justify-center rounded-full bg-gray-900 text-white text-xl font-semibold transition-transform duration-300 ">
-                        {(events.id=="comingsoon")?"Coming Soon":"Explore"}
+                        Explore
                       </span>
                     </button>
                   </Link>
