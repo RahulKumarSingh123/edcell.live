@@ -17,12 +17,12 @@ const teamfaculty=[
         image:""
     },
     {
-        name:"Dr. Arnab Pal",
+        name:"Dr. Joy Choudhary",
         about:"",
         image:""
     },
     {
-        name:"Dr. Tapas Maji",
+        name:"Dr. Arnab Pal",
         about:"",
         image:""
     },
@@ -72,8 +72,12 @@ const teamstudent = [
         image: "/team/anubhav.jpg"
     },
     {
-        name: "Shubham Kumar",
+        name: "Aryan Singh",
         about: "Joint Secretary",
+    },
+    {
+        name: "Shubham Kumar",
+        about: "4th Year",
         image: "/team/shubham.jpg"
     },
     {
@@ -101,6 +105,31 @@ const teamstudent = [
         about: "4th Year",
         image: "/team/priyanshi2.JPG"
     },
+    {
+        name: "Satyam Sinha",
+        about: "3rd Year",
+        // image: "/team/satyam.jpg"
+    },
+    {
+        name: "Bhimesh Kumar Mehra",
+        about: "3rd Year",
+    },
+    {
+        name: "Jaydeep Dash",
+        about: "3rd Year",
+    },
+    {
+        name: "Samikshya Samadarshini",
+        about: "3rd Year",
+    },
+    {
+        name: "Jasdeep Singh",
+        about: "2nd Year",
+    },
+    {
+        name: "Suryanshu Panigrahy",
+        about: "2nd Year",
+    }
 ]
 
 
