@@ -63,6 +63,12 @@ const members = [
     img2: "/sparkupsummit/images/members/piush.jpg",
   },
   {
+    name: "Samikshya Samadarshini",
+    year: "2nd year",
+    img: "/sparkupsummit/images/members/m7.jpeg",
+    img2: "/sparkupsummit/images/members/image.png",
+  },
+  {
     name: "Anubhav Poddar",
     year: "2nd year",
     img: "/sparkupsummit/images/members/m7.jpeg",
